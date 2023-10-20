@@ -2,6 +2,6 @@
 Mission: Building usable and explainable AI Native Applications
 
 
-##Projects
+### Projects
 - Karia.AI
 - LLMIO
